@@ -16,7 +16,7 @@ even20=0
 evencounter=1
 oddcounter=1
 i=1
-for i in range(4):
+for i in range(98):
     
     a=int(input("any num:"))
     
